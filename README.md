@@ -42,7 +42,9 @@ Vou deixar as imagens das telas para vocês darem uma olhada no sisteminha, clar
 
 🚀 Começando
 Clone o projeto e acesse a pasta
+```bash
 $ git clone https://github.com/chardwillian/GerenciadorDeTurmas-ProjetoIntegrador-ADS-IFG.git && cd GerenciadorDeTurmas-ProjetoIntegrador-ADS-IFG
+```
 
 #### O Banco de dados utilizado foi o MySQL com MariaDB, basta importar esse arquivo que creio que funcionará.
 ![importar](https://user-images.githubusercontent.com/69554100/115566594-c213cd00-a290-11eb-87c5-61a96644627b.png)
